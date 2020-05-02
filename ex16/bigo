@@ -1,0 +1,3 @@
+O(nm) time where n is number of bits stored in bit structure, and m is length of bits.
+O(nm) space
+
